@@ -15,5 +15,6 @@ public class SeleniumTestSelectors {
     public static By PASSWORD = By.name("password");
     public static By SUBMIT= By.xpath("//input[@value='Submit']");
     public static By NEW_PAGE = By.id("newPage");
+    public static By NEW_PAGE2 = By.id("newPage2");
 
 }
